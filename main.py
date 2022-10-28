@@ -21,6 +21,7 @@ if __name__ == '__main__':
     test_zero_balance()
     test_low_balance()
     test_no_budget()
+    print("Everything passed")
 
 
 
